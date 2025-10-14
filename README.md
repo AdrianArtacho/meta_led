@@ -9,3 +9,5 @@ This device controls any kind of led-frid, push-like, midi-capable devices
 ## Usage
 
 ...
+
+![gui](img/gui.png)
