@@ -2,7 +2,7 @@
 	"name" : "meta_led",
 	"version" : 1,
 	"creationdate" : 3823775517,
-	"modificationdate" : 3823775523,
+	"modificationdate" : 3843293346,
 	"viewrect" : [ 25.0, 106.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,19 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+
+		}
+,
+		"data" : 		{
+			"LaunchpadMini.txt" : 			{
+				"kind" : "textfile",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/PROJECTS/MAXMSP/meta_led",
+					"projectrelativepath" : ".."
+				}
+
 			}
 
 		}
