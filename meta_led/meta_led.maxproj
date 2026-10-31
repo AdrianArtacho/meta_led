@@ -39,8 +39,8 @@
                 "kind": "object",
                 "local": 1,
                 "singleton": {
-                    "bootpath": "~/Documents/PROJECTS/♫ Scores/brainchild/♫AUBIOME☰/♫Aubiome☰/refs/devs/led/downloadsheet",
-                    "projectrelativepath": "../downloadsheet"
+                    "bootpath": "~/Documents/PROJECTS/♫ Scores/brainchild/♫AUBIOME☰/♫Aubiome☰/refs/devs/led/meta_led/externals",
+                    "projectrelativepath": "./externals"
                 }
             }
         }
