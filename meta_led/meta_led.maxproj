@@ -3,7 +3,12 @@
     "version": 1,
     "creationdate": 3823775517,
     "modificationdate": 3876297107,
-    "viewrect": [ 25.0, 106.0, 300.0, 500.0 ],
+    "viewrect": [
+        25.0,
+        106.0,
+        300.0,
+        500.0
+    ],
     "autoorganize": 0,
     "hideprojectwindow": 0,
     "showdependencies": 1,
@@ -32,6 +37,14 @@
                     "bootpath": "~/Documents/PROJECTS/♫ Scores/brainchild/♫AUBIOME☰/♫Aubiome☰/refs/devs/led/meta_led/patchers",
                     "projectrelativepath": "./patchers"
                 }
+            },
+            "preset-grid-state.js": {
+                "kind": "javascript",
+                "local": 1,
+                "singleton": {
+                    "bootpath": "./patchers",
+                    "projectrelativepath": "./patchers"
+                }
             }
         },
         "externals": {
@@ -45,8 +58,8 @@
             }
         }
     },
-    "layout": {    },
-    "searchpath": {    },
+    "layout": {},
+    "searchpath": {},
     "detailsvisible": 0,
     "amxdtype": 1835887981,
     "readonly": 0,

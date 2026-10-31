@@ -4,7 +4,7 @@ const vm = require('node:vm');
 const path = require('node:path');
 const codePaths = {
   'tesserpipe-launch.js': path.join(__dirname, '../meta_led/patchers/tesserpipe-launch.js'),
-  'tesserpipe-config.js': path.join(__dirname, '../tesser_pipe/tesser_pipe/patchers/tesserpipe-config.js')
+  'tesserpipe-config.js': path.join(__dirname, '../tesser_pipe/tesser_pipe/code/tesserpipe-config.js')
 };
 
 function harness(options = {}) {
